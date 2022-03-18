@@ -1,7 +1,7 @@
 # Hello World 🌍
 
 <div style="width: 200px; margin:  0 auto 4rem auto">
-  <img src="logo-DS.png"/>
+  <img src="https://raw.githubusercontent.com/D4t4Squ4d/.github/main/profile/logo-DS.png"/>
 </div>
 
 ## Who are we
